@@ -1,0 +1,1 @@
+it deals with the home page where we can put all our redndering urls hear and work 
